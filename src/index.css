@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.navbar {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: black;
+  color: white;
+  height: 40px;
+}
+
+
+.navLink {
+  text-decoration: none;
+  color: white;
+  
+}
+
+
+.table1{
+  border: 2px solid black;
+  width: 99.8%;
+}
+
+
+
+.thead1 {
+  background-color: rgb(166, 235, 234);
+}
+
+.th1 {
+  padding: 5px;
+  
+}
+
+.td1 {
+  padding: 5px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.colorgreen {
+  color: green;
+}
+.colorblue {
+  color: blue;
+}
+
+.colorred{
+  color: red;
+}
+
+.coloryellow {
+  background-color: yellow;
+}
+
+.th2 {
+  padding: 12px;
+}
+
+.td2 {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+
+.Container {
+  display: flex;
+}
+
+.leftContainer {
+  width: 25%;
+  overflow: auto;
+}
+
+.rightContainer {
+  width: 75%;
+  overflow: auto;
+}
+
+.inputs {
+  display: flex;
+  gap: 25%;
+}
+
+
+input {
+  height: 20px;
+  margin-top: 25px;
+  margin-right: 10%;
+}
+
+.btn {
+  background-color: rgb(31, 123, 189);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 6px;
+  margin-left: 40%;
+  cursor: pointer;
+}
