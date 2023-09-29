@@ -2,11 +2,20 @@ View 1
 ![Screenshot (3)](https://github.com/Rajatmittal28/PAPL_CARE/assets/57307495/6081eec6-52db-4b2b-a031-88e8233dc94f)[Uploading Screenshot (3).png…]()
 
 View 2
-![Screenshot (4)](https://github.com/Rajatmittal28/PAPL_CARE/assets/57307495/73163ece-27fd-4184-a3c2-282187c2069b)
 ![Screenshot (5)](https://github.com/Rajatmittal28/PAPL_CARE/assets/57307495/176fa7e2-53b8-4480-9055-5072664f1cbc)
 
 View 3
 ![Screenshot (6)](https://github.com/Rajatmittal28/PAPL_CARE/assets/57307495/6f2d16dc-a099-460f-913e-c3996095ed91)
+
+View 4 
+![Screenshot (7)](https://github.com/Rajatmittal28/PAPL_CARE/assets/57307495/a1d713a6-7168-4f30-9b68-9b5854ed0d07)
+
+View 5
+![Screenshot (8)](https://github.com/Rajatmittal28/PAPL_CARE/assets/57307495/1cfc18fc-5923-4108-ad1e-3da9dd8287f0)
+
+View 6
+![Screenshot (10)](https://github.com/Rajatmittal28/PAPL_CARE/assets/57307495/49d12a43-be5f-4bb3-976d-13872c2bac6a)
+
 
 
 # Getting Started with Create React App!
